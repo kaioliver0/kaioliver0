@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaioliver0
-- 👀 I’m interested in GIS, data analytics and machine learning.
+- 👀 I’m interested in GIS, data analytics, generative art and machine learning.
 - 🌱 I’m currently learning Python, SQL and R
 - 💞️ I’m looking to collaborate on... Unsure
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/kaioliver/ Email: kaioliver0@gmail.com
